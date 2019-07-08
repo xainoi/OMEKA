@@ -1,0 +1,2 @@
+# OMEKA
+NiceHash Mine
